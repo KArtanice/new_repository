@@ -1,2 +1,11 @@
-modules/
-garbage.*
+*.tmp
+build*/
+temp*/
+.venv*/
+*.py~
+*.cpp~
+*.h~
+*.exe
+*.dll
+*.so
+*.a
